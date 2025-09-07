@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Default Web Project´s é um exemplo de estrutura de arquivos para desenvolvimento de aplicações basica Web para uso do README.md.
 
-- [Acesse o projeto finalizado, online](https://ljanotte.github.io/default)
+- [Acesse o projeto finalizado, online](https://ljanotte.github.io/defaults)
 
 ## 🔖 Layout
 
