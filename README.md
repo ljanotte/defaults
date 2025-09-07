@@ -18,7 +18,7 @@ Estrutura basica, exclusivo e gratuito, promovido pela LJanotteDev para desenvol
 <br>
 
 <p align="center">
-  <img alt="Default Web Project´s" src=".github/preview.png" width="100%">
+  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
